@@ -8,7 +8,7 @@ import android.util.Log;
 
 import com.google.android.gms.location.LocationResult;
 
-
+//test
 public class LocationReceiver extends BroadcastReceiver{
     private String TAG = "Loc";
     @Override
